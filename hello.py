@@ -7,3 +7,5 @@ print('I was born in Shanghai')
 print("I was born in Yantai")
 print('yayayayay')
 print('tattaatatatata')
+
+print(1+2)
